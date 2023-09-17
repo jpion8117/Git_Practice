@@ -26,3 +26,5 @@ some text
 
 (Josh)
 Didn't feel like getting the binary converter loaded back up...
+(Scott)
+I was thinking the same thing.
